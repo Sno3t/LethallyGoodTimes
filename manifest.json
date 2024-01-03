@@ -1,7 +1,7 @@
 {
   "name": "LethallyGoodTimes",
   "version_number": "1.0.6",
-  "website_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "website_url": "https://github.com/Sno3t/LethallyGoodTimes",
   "description": "Lethal company mods for funsies",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
