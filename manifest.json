@@ -1,6 +1,6 @@
 {
   "name": "LethallyGoodTimes",
-  "version_number": "1.0.6",
+  "version_number": "1.0.9",
   "website_url": "https://github.com/Sno3t/LethallyGoodTimes",
   "description": "Lethal company mods for funsies",
   "dependencies": [
@@ -87,6 +87,14 @@
 	"AllToasters-SpectateEnemies-2.1.1",
 	"TheFluff-FairAI-1.2.5",
 	"HomelessGinger-MaskedEnemyOverhaul-2.2.1",
-	"Nips-Brutal_Company_Plus-3.5.1"
+	"Nips-Brutal_Company_Plus-3.5.1",
+	"silhygames-FumoCompany-1.2.0",
+	"Smartcoffee-AEIOU_Boombox-1.0.0",
+	"Isekai_Company-Isekai_Quartet_SkinPack-1.1.3",
+	"egeadam-MoreScreams-1.0.3",
+	"5Bit-VoiceHUD-1.0.4",
+	"Backrooms-Backrooms-0.1.3",
+	"boxofbiscuits97-QuotaRollover-2.1.0",
+	"TeamBridget-Peaches_Castle-1.0.41"
   ]
 }
